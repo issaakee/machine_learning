@@ -2,6 +2,10 @@
 
 ## About Me
 I'm an enthusiastic AI and data science student, passionate about leveraging data to unravel insights and make informed decisions. With a strong foundation in data visualization, statistical analysis, and machine learning, I'm dedicated to exploring datasets to extract valuable insights and drive data-informed solutions.
+##
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Code GIF">
+</p>
 
 ## Skills
 - Data Analysis
@@ -21,5 +25,6 @@ Here are some of my notable projects:
 ## Connect with Me
 - LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/ishak-hafdallah/)
 - Email: ishakhafdallah123@gmail.com
+  
 
 
