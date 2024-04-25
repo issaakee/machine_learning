@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm ishak
+# Hi there! 👋 I'm Ishak
 
 ## About Me
 I'm an enthusiastic AI and data science student, passionate about leveraging data to unravel insights and make informed decisions. With a strong foundation in data visualization, statistical analysis, and machine learning, I'm dedicated to exploring datasets to extract valuable insights and drive data-informed solutions.
@@ -19,7 +19,7 @@ Here are some of my notable projects:
 - [end-to-end Machine Learning Pipeline](https://nbviewer.org/github/issaakee/machine_learning/blob/main/Pipeline.ipynb): For this project, I developed an end-to-end machine learning pipeline using a publicly available car dataset from Kaggle. The pipeline covered data collection, preprocessing, exploration, feature engineering, model training, and assessment and concluded with insights drawn from the analysis.
 
 ## Connect with Me
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ishak-hafdallah/)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/ishak-hafdallah/)
 - Email: ishakhafdallah123@gmail.com
 
 
